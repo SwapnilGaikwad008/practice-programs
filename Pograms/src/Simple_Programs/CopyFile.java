@@ -10,7 +10,7 @@ public class CopyFile {
 	    public static void main(String[] args)
 	    {	
 	    	FileInputStream instream = null;
-		FileOutputStream outstream = null;
+		    FileOutputStream outstream = null;
 	 
 	    	try{
 	    	    File infile =new File("C:\\MyInputFile.txt");
